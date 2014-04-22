@@ -32,7 +32,3 @@ Provides ability to autopost a Twitter update as the post gets created/edited on
 = FAQ ? =
 
 
-== Screenshots ==
-
-
-

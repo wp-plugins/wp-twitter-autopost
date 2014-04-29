@@ -35,6 +35,11 @@ It allows wordpress publishers to automatically post their new posts to their Tw
 4. Adjust the WP Twitter Autopost Options as per your needs. 
 5. Create a Twitter application from twitter developrs website and Configure your OAuth setup keys.
 
+== Screenshots ==
+
+1. WP Twitter Autopost API keys settings page.
+2. WP Twitter Autopost Tweet template settings page.
+3. WP Twitter Autopost advanced settings page.
 == Frequently Asked Questions ==
 
 = FAQ ? =

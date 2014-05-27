@@ -21,6 +21,17 @@ It allows wordpress publishers to automatically post their new posts to their Tw
 * Post a tweet from the WP Admin screens.
 * Pass your tweets along to another service (via various shortcodes).
 
+= Rate Us / Feedback =
+
+Please take the time to let us and others know about your experiences by leaving a review, so that we can improve the plugin for you and other users.
+
+If you like the plugin please [Donate here](http://tinyurl.com/owxtkmt). 
+
+= Want More? =
+
+If You Want more functionality or some modifications, just drop us a line what you want and We will try to add or modify the plugin functions.
+
+
 == Changelog ==
 
 = 1.0 =

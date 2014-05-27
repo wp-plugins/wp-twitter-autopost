@@ -15,7 +15,7 @@ WP Twitter Autopost allows WordPress Authors to set their twitter status be upda
 
 It allows wordpress publishers to automatically post their new posts to their Twitter account. It will take the title of a new post and will submit it to the Twitter account specified that is connected in the options. It will also add the link back to the post, allowing your twitter followers to access the post details.
 
-== Features ==
+= Features =
 
 * Create a tweet on Twitter whenever you post in your blog, with a link to the blog post.
 * Post a tweet from the WP Admin screens.

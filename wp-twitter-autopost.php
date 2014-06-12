@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: WP Twitter Autopost
-* Plugin URI: http://www.vivacityinfotech.com/
+* Plugin URI: http://www.vivacityinfotech.net/
 * Description: Auto publish your blog posts to Twitter .
 * Version: 1.0
 * Author: vivacityinfotech

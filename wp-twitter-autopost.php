@@ -5,14 +5,13 @@
 * Description: Auto publish your blog posts to Twitter .
 * Version: 1.0
 * Author: vivacityinfotech
-* Author URI: http://www.vivacityinfotech.com/
+* Author URI: http://www.vivacityinfotech.net/
 */
-/*  Copyright 2008-2014  vivacityinfotech  (email :vivacityinfotech.jaipur@gmail.com )
+/*  Copyright 2014  Vivacity InfoTech Pvt. Ltd.  (email : support@vivacityinfotech.com)
 
     This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 2 of the License, or
-    (at your option) any later version.
+    it under the terms of the GNU General Public License, version 2, as 
+    published by the Free Software Foundation.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of

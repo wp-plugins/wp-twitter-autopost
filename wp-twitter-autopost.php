@@ -452,8 +452,8 @@ function wptp_disp_tweets( $previous_tweets, $failed_tweets ) {
 		?>
 		</ul>
 		<?php
-		echo "<div>".$hidden_fields."</div>";
-		if ( $has_history || $list ) {
+	//	echo "<div>".$hidden_fields."</div>";
+		if ($list ) {
 			echo "<p><input type='checkbox' name='wpt_clear_history' id='wptch' value='clear' /> <label for='wptch'>Delete Tweet History</label></p>";
 		}
 	}

@@ -3,7 +3,7 @@ Contributors: vivacityinfotech.jaipur
 Donate link: http://tinyurl.com/owxtkmt
 Tags:  wp twitter autopost,twitter autopost,twitter autopost for wordpress,wp twitter autofeeder,live tweets, live twitter feeds, tweets, autopost, wp twitter autopost plugin, twitter user tweets,  twitter 1.1, twitter api
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.2
 License: GPLv2 or later
 Stable tag: 1.0
 

@@ -3,9 +3,9 @@ Contributors: vivacityinfotech.jaipur
 Donate link: http://tinyurl.com/owxtkmt
 Tags:  wp twitter autopost,twitter autopost,twitter autopost for wordpress,wp twitter autofeeder,live tweets, live twitter feeds, tweets, autopost, wp twitter autopost plugin, twitter user tweets,  twitter 1.1, twitter api
 Requires at least: 3.0
-Tested up to: 3.9
+Tested up to: 4.2
 License: GPLv2 or later
-Stable tag: 1.0
+Stable tag: 1.1
 
 Provides ability to autopost a Twitter update as the post gets created/edited on your Wordpress blog.
 
@@ -15,7 +15,7 @@ WP Twitter Autopost allows WordPress Authors to set their twitter status be upda
 
 It allows wordpress publishers to automatically post their new posts to their Twitter account. It will take the title of a new post and will submit it to the Twitter account specified that is connected in the options. It will also add the link back to the post, allowing your twitter followers to access the post details.
 
-== Features ==
+= Features =
 
 * Create a tweet on Twitter whenever you post in your blog, with a link to the blog post.
 * Post a tweet from the WP Admin screens.
@@ -33,7 +33,8 @@ If You Want more functionality or some modifications, just drop us a line what y
 
 
 == Changelog ==
-
+=1.1=
+* bug removed for feature image posting
 = 1.0 =
 
 * Inetial Release.

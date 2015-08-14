@@ -5,7 +5,7 @@ Tags:  wp twitter autopost,twitter autopost,twitter autopost for wordpress,wp tw
 Requires at least: 3.0
 Tested up to: 4.2
 License: GPLv2 or later
-Stable tag: 1.0
+Stable tag: 1.1
 
 Provides ability to autopost a Twitter update as the post gets created/edited on your Wordpress blog.
 
@@ -33,7 +33,8 @@ If You Want more functionality or some modifications, just drop us a line what y
 
 
 == Changelog ==
-
+=1.1=
+* bug removed for feature image posting
 = 1.0 =
 
 * Inetial Release.
@@ -51,9 +52,5 @@ If You Want more functionality or some modifications, just drop us a line what y
 1. WP Twitter Autopost API keys settings page.
 2. WP Twitter Autopost Tweet template settings page.
 3. WP Twitter Autopost advanced settings page.
-
-== Frequently Asked Questions ==
-
-= FAQ ? =
 
 

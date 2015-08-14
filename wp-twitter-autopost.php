@@ -3,12 +3,12 @@
 * Plugin Name: WP Twitter Autopost
 * Plugin URI: http://www.vivacityinfotech.net/
 * Description: Auto publish your blog posts to Twitter .
-* Version: 1.0
-* Author: vivacityinfotech
+* Version: 1.1
+* Author: Vivacity InfoTech Pvt. Ltd.
 * Author URI: http://www.vivacityinfotech.net/
-* Author Email: support@vivacityinfotech.net
+* 
 */
-/*  Copyright 2014  Vivacity InfoTech Pvt. Ltd.  (email : support@vivacityinfotech.com)
+/*  Copyright 2014  Vivacity InfoTech Pvt. Ltd.
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
@@ -137,15 +137,13 @@ function wptp_do_shorten_url( $post_id ) {
 function wptp_post_media_get( $post_ID, $post_info=array() ) {
 	$return = false;
 	if ( isset( $post_info['wpt_image'] ) && $post_info['wpt_image'] == 1 ) return $return;
-	
-	if ( !function_exists( 'wpt_pro_exists' ) || get_option( 'wpt_media') != '1' ) { 
-		$return = false; 
-	} else {
+
 		if ( has_post_thumbnail( $post_ID ) || wptp_post_attachment( $post_ID ) ) {
 			$return = true;
 		}
-	}
-	return apply_filters( 'wpt_upload_media', $return, $post_ID );
+
+return apply_filters( 'wpt_upload_media', $return, $post_ID );
+	
 
 }
 
